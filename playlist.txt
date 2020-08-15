@@ -14,3 +14,5 @@ or a file or to both. Example (Format): Year Song id Artist
 new song 1
 new song 2
 new song 3
+old song 1
+old song 2
