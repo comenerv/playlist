@@ -11,3 +11,6 @@ and Playing Time (int) You will produce a report as follows
 and it will be available in order: Song Title, Artist, Year, 
 etc. The user can select to have the report sent to the screen 
 or a file or to both. Example (Format): Year Song id Artist 
+new song 1
+new song 2
+new song 3
