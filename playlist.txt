@@ -1,0 +1,13 @@
+Part II (50 points) PLAYLIST ORGANIZER SPECIFICATIONS 
+You will be writing a Java program to search and report 
+on a play list. This program will require that you create 
+tasks as follow Play list Reporting System 1. Search by 
+Title 2. Search by Song ID 3. Report By Title 4. Report 
+By Playing Time 5. Exit Your program will read in the 
+playlist data from the file MyPlayList.txt (data input file) 
+via a Method or Methods for the following: Song id (int), 
+Artist (String), Song Title (String), Year Published (int), 
+and Playing Time (int) You will produce a report as follows 
+and it will be available in order: Song Title, Artist, Year, 
+etc. The user can select to have the report sent to the screen 
+or a file or to both. Example (Format): Year Song id Artist 
