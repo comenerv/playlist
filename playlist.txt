@@ -15,3 +15,4 @@ new song 1
 new song 2
 old song 1
 old song 2
+super song 1
